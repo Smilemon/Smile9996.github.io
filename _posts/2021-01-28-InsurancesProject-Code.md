@@ -1,13 +1,13 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      code 				# 标题 
+title:      保险项目错误代码 				# 标题 
 subtitle:   #副标题
 date:       2021-01-28 				# 时间
 author:     Smile 						# 作者
-#header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+# header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - code
+    - INSURANCES
 ---
 ## ————***成功状态码***————
 

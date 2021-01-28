@@ -1,10 +1,10 @@
 # Site settings
 title: Smile's Blog
-SEOTitle: Smile的博客 | BY Blog
+SEOTitle: Smile的博客 | Smile's Blog
 header-img: img/post-bg-desk.jpg
 email: wait3124@163.com
 description: "Every failure is leading towards success."
-keyword: "Smile, Smile's, Smile's Blog, Smile的博客, wait3124, Elio Potter, iOS, Apple, iPhone"
+keyword: "Smile, Smile's, Smile Blog, Smile's Blog, Smile的博客, wait3124, Elio Potter, iOS, Apple, iPhone, Java, Spring, Mysql"
 url: "https://smile9996.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Smile9996/Smile9996.github.io.git" # you code repository

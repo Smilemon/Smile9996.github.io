@@ -211,6 +211,14 @@ tags:
 >
 > **P**：
 
+#### 	insStatus：（投保状态）
+
+> **0**：***<s>  保留   </s>***
+>
+> **1**：已投保
+>
+> **2**：未投保
+
 ### StudentClaimsRecords：
 
 #### 	currentExam：（当前考试科目）

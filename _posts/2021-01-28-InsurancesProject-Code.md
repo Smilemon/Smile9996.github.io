@@ -9,6 +9,9 @@ catalog: true 						# 是否归档
 tags:								#标签
     - INSURANCES
 ---
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81/1443352354?i=1443352467"></iframe>
+
 ## ————***成功状态码***————
 
 ### 1

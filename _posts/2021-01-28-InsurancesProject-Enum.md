@@ -10,9 +10,8 @@ tags:
     - INSURANCES
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://c.y.qq.com/base/fcgi-bin/u?__=0gsaY"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%8D%81%E5%B9%B4/542922079?i=542922095"></iframe>
 
---https://embed.music.apple.com/cn/album/%E6%98%8E%E6%98%8E%E5%B0%B1/584787541?i=584787542
 ## ————***ENUM***————
 
 ### ClaimsPolicy  :

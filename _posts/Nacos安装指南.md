@@ -1,3 +1,17 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Nacos安装指南 				# 标题 
+subtitle:   #副标题
+date:       2023-03-28 				# 时间
+author:     Smile 						# 作者
+# header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - SpringCloud
+---
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81/1443352354?i=1443352467"></iframe>
+
 # Nacos安装指南
 
 

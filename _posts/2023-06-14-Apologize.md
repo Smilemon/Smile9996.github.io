@@ -3,8 +3,8 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      给宝贝的一封的道歉信 				# 标题 
 subtitle:   #副标题
 date:       2023-06-14				# 时间
-author:     Smile 						# 作者
-# header-img: img/hand.jpg 	#这篇文章标题背景图片
+author:     Erica's Boy 						# 作者
+header-img: img/hand.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Apologize

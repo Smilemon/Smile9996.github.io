@@ -71,5 +71,3 @@ tags:								#标签
 <img src="https://smile9996.oss-cn-shanghai.aliyuncs.com/github/image/imgApologize/hand.jpg" alt="image-20230614191046253" style="zoom: 80%;" />
 
 ——一个你可能讨厌的小屁孩書
-
-——一个你可能讨厌的小屁孩书

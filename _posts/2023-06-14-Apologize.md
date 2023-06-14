@@ -67,7 +67,9 @@ tags:								#标签
 
 **也许我是令你疲惫的一粒沙子，但我更想也会更努力地成为你眼中的一颗金子。**
 
-**原谅我，好吗，我依旧最爱的宝贝。**
+**原谅我，让我们继续携手前行，好吗，我依旧最爱的宝贝。**
+<img src="https://smile9996.oss-cn-shanghai.aliyuncs.com/github/image/imgApologize/hand.jpg" alt="image-20230614191046253" style="zoom: 80%;" />
 
+——一个你可能讨厌的小屁孩書
 
 ——一个你可能讨厌的小屁孩书
